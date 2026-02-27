@@ -46,6 +46,28 @@ def calculate_power_rec(result, a, b, c):
     b = b // 2
     return calculate_power_rec(result, a, b, c)
 
+def calculate_power2(a, b):
+    """
+    Args:
+     a(int64)
+     b(int64)
+    Returns:
+     int32
+    """
+    if a == 0: return 0
+    if a == 1 or b == 0: return 1
+    if b == 1: return a
+    m = 1000000007
+    return helper(a, b, m)
+
+def helper(a, b, m):
+    if b == 0: return 1
+    temp = helper(a, b//2, m)
+    if b % 2 == 0:
+        return ((temp % m) * (temp % m)) % m
+    else:
+        return ((temp % m) * (temp % m) * (a % m)) % m
+
 
 if __name__ == '__main__':
     print(calculate_power(10000, 10000000))

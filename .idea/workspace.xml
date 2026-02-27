@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86cd06bf-faea-4e0a-8828-ecc68c719209" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ds-alogo/DP/CountNumberOfPathsInGrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-alogo/DP/MinimumCoins.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-alogo/graph/IsItATree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-alogo/trees/TreeTraversal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds-alogo/recursion/NQueen.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-alogo/trees/Insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/ds-alogo/trees/TreeOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-alogo/recursion/CalculateThePower.py" beforeDir="false" afterPath="$PROJECT_DIR$/ds-alogo/recursion/CalculateThePower.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,74 +32,76 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.ArrayPermutation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.AttendAllMeetings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CalculateThePower.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CombinationsUptoASum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountNumberOfPathsInGrid.executor&quot;: &quot;Run&quot;,
-    &quot;Python.CountingSort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DutchFlagProblem.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.FindTripletsToSum.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GenerateAllExpression.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.GenerateAllSubsets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.GenerateBinaryStrings.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HowmanyBSTWithNodes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Insert.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.IntersectionOf3SortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.IsItATree.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.KMostFreequestWords.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KSortedLLMerge.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.KthLargetElementInAStream.executor&quot;: &quot;Run&quot;,
-    &quot;Python.KthLargetInAnArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MatchingParanthesis.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.MergeTwoSortedArray.executor&quot;: &quot;Run&quot;,
-    &quot;Python.MinimumCoins.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NCR.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NChooseK.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NQueenProblem.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.OnlineMedian.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.PalindrominDecomposition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.PermutationNoDuplicate.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.PermuteArrayOfInteger.executor&quot;: &quot;Run&quot;,
-    &quot;Python.RadixSort.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SegregateEvenAndOdd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SmallerSumTriplet.executor&quot;: &quot;Run&quot;,
-    &quot;Python.SubsetNoDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Sudoku.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.TopKFreequentElenets.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TowerOfHanoi.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.TreeTraversal.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.TwoSum.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.UpperLowerCombination.executor&quot;: &quot;Run&quot;,
-    &quot;Python.WordsFromPhoneNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/abasu/WorkSpace/PY/PythonProjects&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ArrayPermutation.executor": "Run",
+    "Python.AttendAllMeetings.executor": "Run",
+    "Python.CalculatePoints.executor": "Run",
+    "Python.CalculateThePower.executor": "Run",
+    "Python.CombinationsUptoASum.executor": "Run",
+    "Python.CountNumberOfPathsInGrid.executor": "Run",
+    "Python.CountingSort.executor": "Run",
+    "Python.DutchFlagProblem.executor": "Run",
+    "Python.Fibonacci.executor": "Run",
+    "Python.FindTripletsToSum.executor": "Run",
+    "Python.GenerateAllExpression.executor": "Debug",
+    "Python.GenerateAllSubsets.executor": "Run",
+    "Python.GenerateBinaryStrings.executor": "Run",
+    "Python.HowmanyBSTWithNodes.executor": "Run",
+    "Python.Insert.executor": "Debug",
+    "Python.IntersectionOf3SortedArray.executor": "Run",
+    "Python.IsItATree.executor": "Debug",
+    "Python.KMostFreequestWords.executor": "Run",
+    "Python.KSortedLLMerge.executor": "Debug",
+    "Python.KthLargetElementInAStream.executor": "Run",
+    "Python.KthLargetInAnArray.executor": "Run",
+    "Python.MatchingParanthesis.executor": "Debug",
+    "Python.MergeTwoSortedArray.executor": "Run",
+    "Python.MinimumCoins.executor": "Run",
+    "Python.NCR.executor": "Run",
+    "Python.NChooseK.executor": "Run",
+    "Python.NQueen.executor": "Run",
+    "Python.NQueenProblem.executor": "Debug",
+    "Python.OnlineMedian.executor": "Debug",
+    "Python.PalindrominDecomposition.executor": "Run",
+    "Python.PermutationNoDuplicate.executor": "Debug",
+    "Python.PermuteArrayOfInteger.executor": "Run",
+    "Python.RadixSort.executor": "Run",
+    "Python.SegregateEvenAndOdd.executor": "Run",
+    "Python.SmallerSumTriplet.executor": "Run",
+    "Python.SubsetNoDuplicates.executor": "Run",
+    "Python.Sudoku.executor": "Debug",
+    "Python.TopKFreequentElenets.executor": "Run",
+    "Python.TowerOfHanoi.executor": "Debug",
+    "Python.TreeTraversal.executor": "Debug",
+    "Python.TwoSum.executor": "Debug",
+    "Python.UpperLowerCombination.executor": "Run",
+    "Python.WordsFromPhoneNumber.executor": "Run",
+    "Python.main.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/abasu/WorkSpace/PY/PythonProjects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/ds-alogo" />
       <recent name="$PROJECT_DIR$/ds-alogo/sorting" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.IsItATree">
-    <configuration name="CountNumberOfPathsInGrid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.CalculatePoints">
+    <configuration name="CalculatePoints" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds-alogo/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds-alogo/DP/CountNumberOfPathsInGrid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CalculatePoints.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="NCR" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="NQueen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProjects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,11 +176,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds-alogo/DP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ds-alogo/recursion" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds-alogo/DP/NCR.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ds-alogo/recursion/NQueen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -214,11 +213,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.CalculatePoints" />
+        <item itemvalue="Python.NQueen" />
         <item itemvalue="Python.IsItATree" />
         <item itemvalue="Python.TreeTraversal" />
         <item itemvalue="Python.MinimumCoins" />
-        <item itemvalue="Python.CountNumberOfPathsInGrid" />
-        <item itemvalue="Python.NCR" />
       </list>
     </recent_temporary>
   </component>
